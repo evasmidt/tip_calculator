@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 20/03/2016 17:14
+    Creation date: 20/03/2016 18:45
     */
 
     @font-face {
@@ -39,17 +39,23 @@
     .flaticon-beauty:before { content: "\f100"; }
 .flaticon-food:before { content: "\f101"; }
 .flaticon-food-1:before { content: "\f102"; }
-.flaticon-people:before { content: "\f103"; }
-.flaticon-relax:before { content: "\f104"; }
-.flaticon-shopping:before { content: "\f105"; }
-.flaticon-transport:before { content: "\f106"; }
-.flaticon-transport-1:before { content: "\f107"; }
+.flaticon-man:before { content: "\f103"; }
+.flaticon-money:before { content: "\f104"; }
+.flaticon-people:before { content: "\f105"; }
+.flaticon-relax:before { content: "\f106"; }
+.flaticon-shopping:before { content: "\f107"; }
+.flaticon-smile:before { content: "\f108"; }
+.flaticon-transport:before { content: "\f109"; }
+.flaticon-transport-1:before { content: "\f10a"; }
     
     $font-Flaticon-beauty: "\f100";
     $font-Flaticon-food: "\f101";
     $font-Flaticon-food-1: "\f102";
-    $font-Flaticon-people: "\f103";
-    $font-Flaticon-relax: "\f104";
-    $font-Flaticon-shopping: "\f105";
-    $font-Flaticon-transport: "\f106";
-    $font-Flaticon-transport-1: "\f107";
+    $font-Flaticon-man: "\f103";
+    $font-Flaticon-money: "\f104";
+    $font-Flaticon-people: "\f105";
+    $font-Flaticon-relax: "\f106";
+    $font-Flaticon-shopping: "\f107";
+    $font-Flaticon-smile: "\f108";
+    $font-Flaticon-transport: "\f109";
+    $font-Flaticon-transport-1: "\f10a";
